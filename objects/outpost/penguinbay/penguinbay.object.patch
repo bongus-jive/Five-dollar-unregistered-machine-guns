@@ -1,0 +1,17 @@
+[
+	{
+		"op" : "add",
+		"path" : "/interactData/items/-",
+		"value" : {"item" : "commonassaultrifle", "price" : 5}
+	},
+	{
+		"op" : "add",
+		"path" : "/interactData/items/-",
+		"value" : {"item" : "uncommonassaultrifle", "price" : 5}
+	},
+	{
+		"op" : "add",
+		"path" : "/interactData/items/-",
+		"value" : {"item" : "rareassaultrifle", "price" : 5}
+	}
+]
